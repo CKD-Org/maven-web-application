@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to CK Technologies.</h1>
-<h1 align="center">We are giving cloud provider </h1>
+<h1 align="center">We are cloud providers </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
